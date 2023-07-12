@@ -1,196 +1,268 @@
-#EXTINF:-1,A GRANDE FAMÍLIA ²
-http://7go.xyz:8080/Naifaia/Shiwafa/170663
-#EXTINF:-1,A feiticeira
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/631fa8dd7f25240007099a40/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a8 0540b014ca5482&deviceLat=-1.3450&deviceLon= -48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
-#EXTINF:-1,Amazon Sat HD
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1,Arte 1 HD
-http://pfsv.io:80/Silviopaz/pandora/180.m3u8
-#EXTINF:-1,BIS FHD[H265]
-http://pfsv.io:80/Silviopaz/pandora/30177.m3u8
-#EXTINF:-1,BIS FHD
-http://pfsv.io:80/Silviopaz/pandora/5.m3u8
-#EXTINF:-1,BIS HD
-http://pfsv.io:80/Silviopaz/pandora/18.m3u8
-#EXTINF:-1,BIS SD
-http://pfsv.io:80/Silviopaz/pandora/12.m3u8
-#EXTINF:-1,Banda
-http://45.58.126.146:14231/bandnews.ts
-#EXTINF:-1,Band News HD
-http://pfsv.io:80/Silviopaz/pandora/514.m3u8
-#EXTINF:-1,CINE BRASIL TV
-http://45.230.96.42:80/distv/@distv/434
-#EXTINF:-1,CLASSIQUE TV WETERN
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w696892955.m3u8
-#EXTINF:-1,CNN Brasil HD
-http://pfsv.io:80/Silviopaz/pandora/517.m3u8
-#EXTINF:-1,Catve 2
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1,Cultura
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1719249518.m3u8
-#EXTINF:-1,EXTREMO ORIENTAL TV
-http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
-#EXTINF:-1,Film&Arts FHD
-http://pfsv.io:80/Silviopaz/pandora/134867.m3u8
-#EXTINF:-1,GLOBO
-http://168.205.87.198:8555/live/1266/123456/70.ts
-#EXTINF:-1,GLOBO NEWS
-http://143.137.216.38:8080/gmsolucoes/gm121109/229
-#EXTINF:-1,Globo
-http://168.205.87.198:8555/live/antony/1234/70.m3u8
-#EXTINF:-1,Soul Cine Clube | Brasil
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:-1,TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1,TV Jornal Caruaru
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,[24H] A GRANDE FAMÍLIA CANAL 2
-http://ncw.one:80/756t0mwj/33spt1ka/124980
-#EXTINF:-1,[24H] A Grande Família
-http://pfsv.io:80/Silviopaz/pandora/43932.m3u8
-#EXTINF:-1,[24H]24/7 A Grande Família
-http://x90.live:80/valmir/654321/138772232
-
-#EXTM3U A playlist foi criada em "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="ShopShop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="VariedadesVariedades",Adesso TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="OutdoorOutdoor",AgroBrasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="OutdoorOutdoor",AgroBrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="EsportesEsportes",Todos os esportes
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="VariedadesVariedades",Canal Alfa
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="VariedadesVariedades",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="AnimaçãoAnimação",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="VariedadesVariedades",BCC TV
-https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="VariedadesVariedades",Bem TV
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="VariedadesVariedades",Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7TaaMyJ.png" group-title="VariedadesVariedades",CBTV Internacional
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="SériesSéries",CLASSIQUE TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="FamíliaFamília",CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="VariedadesVariedades",Canal 25 Jundiai
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="SériesSéries",Canal 29
-https://stmv1.srvif.com/canal29/canal29/chunklist_w609906612.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="NotíciaNotícia",Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="VariedadesVariedades",Canal FDR
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="NotíciaNotícia",Canal Metropolitano de Noticias
-https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hs2YVJ3.png" group-title="VariedadesVariedades",Canal Ricos
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="OutdoorOutdoor",Canal Rural
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jBRE3BK.png" group-title="VariedadesVariedades",Canal TV Rio
-https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k29So6X.png" group-title="OutdoorOutdoor",Canal do Criador
-https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="InfantilInfantil", Cartoon Network Brasil
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="InfantilInfantil", Cartoon Network Brasil
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title= "AnimaçãoAnimação",Cartoonito Brazil
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title= "AnimaçãoAnimação",Cartoonito Brazil
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="MúsicaMúsica",Catedral do Rock TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w89yw36.png" group-title="VariedadesVariedades",Catve FM
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4m7Iazm.png" group-title="VariedadesVariedades",Catve Master TV
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qiVfsfB.png" group-title="VariedadesVariedades",Catve2
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RaSZCuy.png" group-title="FilmesFilmes",Cindie Lite
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="FilmesFilmes",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="FilmesFilmes",Classique TV Western
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="VariedadesVariedades",ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qHwTWlz.png" group-title="EntretenimentoEntretenimento",Conecta Mais TV
-http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="VariedadesVariedades",Conexao TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a0ca2ab1c68adcde7bf577af87071b8.jpg" group-title="VariedadesVariedades",D+ TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="VariedadesVariedades",Demais TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="VariedadesVariedades",EUTV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8upyApg.png" group-title="EntretenimentoEntretenimento",Canal Elemental
-https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="EntretenimentoEntretenimento",ElyTV
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="VariedadesVariedades",Fala Litoral
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/136-FANDOM.jpg" group-title="VariedadesVariedades",Fandom TV HD
-http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="FilmesFilmes",Filmes Suspense Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING& content_type=livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="ReligiãoReligião",Fonte TV
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4153eaf9-97b2-4c99-be24-1129b1af0e7b/df6xswm-d9b69eb3-2165-4975-a718-4d6 6c4106666.png? token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyM jY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQxNTNlYWY5LTk3YjItNGM5OS1iZTI0LTExMjliMWFmMGU3YlwvZGY2eHN3bS1kOWI2OWViMy0yMTY1LTQ5Nz UtYTcxOC00ZDY2YzQxMDY2NjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GtAn1oKBVFJI599pFAi0bFBqbVAhiKHDvfzdfE6g3As" group-title="Infantil Infantil",Fox Kids Network
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FilmesFilmes",GLN Filmes
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="AnimaçãoAnimação",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="ReligiãoReligião",Gospel Cartoon
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="ReligiãoReligião",Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="ReligiãoReligião",IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png" group-title="NotíciaNotícia", Notícias Jovem Pan
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="MúsicaMúsica",KpopTV Play
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="VariedadesVariedades",MKK Web TV
-https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="EntretenimentoEntretenimento",MTV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ type=livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="MúsicaMúsica",Master Show TV
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="FilmesFilmes",MyTime Movie Network Brazil
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wskp11q.png" group-title="VariedadesVariedades",NDTV Record TV Criciúma
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="InfantilInfantil",Nick Clássico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1 800007a8ae63&deviceLat=-23.5475&deviceLon= -46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="InfantilInfantil",Nick Jr Club Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ type=livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="InfantilInfantil",Nick Jr Club Brasil
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web& clientDeviceType=0&clientID=6fbead95-26b1-415d-998f- 1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88. 0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857- 714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="VariedadesVariedades",Nova Era TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="CiênciaCiência",Nova TV Agrotour
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="ReligiãoReligião",Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="ReligiãoReligião",Nuevo Tiempo
-https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="NotíciaNotícia",Plena TV
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="FilmesFilmes",Pluto TV Cine Drama Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_ type=livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="FilmesFilmes",Pluto TV Cine Família Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING& content_type=livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="DocumentárioDocumentário",Pluto TV Investigacao Brazil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type =livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="EducaçãoEducação",Pluto TV Natureza Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type =livefeed&coppa=false&deviceDNT =1&deviceId=channel&deviceMake=rokuChannel&deviceMo
+#EXTINF:-1 tvg-id="" tvg-name="-= Brazil =-" tvg-logo="https://cdn4.iconfinder.com/data/icons/flag_set/128/br.png" group-title="Brazil",-= Brazil =-
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/12150
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD BR" tvg-logo="" group-title="Brazil",A&E HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46500
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD BR" tvg-logo="" group-title="Brazil",AMC HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46501
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/POLONIA/ANIMALPLANETHD.png" group-title="Brazil",Animal Planet HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46502
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD BR" tvg-logo="" group-title="Brazil",AXN HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46504
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD BR" tvg-logo="" group-title="Brazil",Band Sports HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46507
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/BOOMERANGHD.png" group-title="Brazil",Boomerang HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46508
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD BR" tvg-logo="" group-title="Brazil",Canal Brasil HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46509
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/CARTOONNETWORK.png" group-title="Brazil",Cartoon HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46510
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon 4K UHD BR" tvg-logo="http://logodmtv.ddns.net/new_logo/FRANCE4K/CARTTONNETWORK.png" group-title="Brazil",Cartoon 4K UHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/51181
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD BR" tvg-logo="" group-title="Brazil",Cinemax HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46511
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="Cnn Internacional HD BR" tvg-logo="" group-title="Brazil",Cnn Internacional HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46512
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/COMBATEHD.png" group-title="Brazil",Combate HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46513
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD BR" tvg-logo="" group-title="Brazil",Comedy Central HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46514
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD BR" tvg-logo="" group-title="Brazil",Cultura HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46515
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD BR" tvg-logo="" group-title="Brazil",Discovery Civilization HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46516
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery H H HD BR" tvg-logo="" group-title="Brazil",Discovery H H HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46517
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/DISCOVERYHD.png" group-title="Brazil",Discovery HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46518
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD BR" tvg-logo="" group-title="Brazil",Discovery Kids HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46519
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD BR" tvg-logo="" group-title="Brazil",Discovery Science HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46520
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theather HD BR" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/05/17/20160517191705-7c3609d9-th.png" group-title="Brazil",Discovery Theather HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46521
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD BR" tvg-logo="" group-title="Brazil",Discovery Turbo HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46522
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD BR" tvg-logo="" group-title="Brazil",Discovery World HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46523
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD BR" tvg-logo="" group-title="Brazil",Disney Channel HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46524
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel 4K UHD BR" tvg-logo="" group-title="Brazil",Discovery Channel 4K UHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/51183
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/DISNEYXDHD.png" group-title="Brazil",Disney XD HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46526
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/DISNEYJUNIOR.png" group-title="Brazil",Disney Junior HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46525
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD BR" tvg-logo="" group-title="Brazil",E! HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46527
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn HD BR" tvg-logo="" group-title="Brazil",Espn HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46528
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="Espn 2 HD BR" tvg-logo="" group-title="Brazil",Espn 2 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/82884
+#EXTINF:-1 tvg-id="espn.br" tvg-name="Espn Br HD BR" tvg-logo="" group-title="Brazil",Espn Br HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46529
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD BR" tvg-logo="" group-title="Brazil",Food Network HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46534
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/SCANDINAVIAN/FOXHD.png" group-title="Brazil",Fox HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46535
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD BR" tvg-logo="" group-title="Brazil",Fox Life HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46536
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD BR" tvg-logo="" group-title="Brazil",Fox Sports HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46540
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD BR" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/05/17/20160517191737-e8e6d888-th.png" group-title="Brazil",Fox Sports 2 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46539
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD BR" tvg-logo="" group-title="Brazil",Globo News HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46543
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/FX.png" group-title="Brazil",FX HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46542
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ FHD BR" tvg-logo="" group-title="Brazil",Globo RJ FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46541
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="Gnt HD BR" tvg-logo="" group-title="Brazil",Gnt HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46547
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo TV HD BR" tvg-logo="" group-title="Brazil",Globo TV HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46546
+#EXTINF:-1 tvg-id="" tvg-name="Globo 4K UHD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/GLOBOHD.png" group-title="Brazil",Globo 4K UHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/51187
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD BR" tvg-logo="" group-title="Brazil",GLOBO EPTV CAMPINAS HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355923
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Ponta Grossa FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Ponta Grossa FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355922
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Maringa FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Maringa FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355921
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Foz do Iguaçu FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Foz do Iguaçu FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355920
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Curitiba FHD BR" tvg-logo="" group-title="Brazil",Globo RPC Curitiba FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355919
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD BR" tvg-logo="" group-title="Brazil",Globo RJ FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355918
+#EXTINF:-1 tvg-id="" tvg-name="Globo Rede Amazonica FHD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/GLOBOHD.png" group-title="Brazil",Globo Rede Amazonica FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355917
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Santa Maria FHD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/GLOBOHD.png" group-title="Brazil",Globo RBS TV Santa Maria FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355916
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV POA FHD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/GLOBOHD.png" group-title="Brazil",Globo RBS TV POA FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355915
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Pelotas FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV Pelotas FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355914
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV Caxias do Sul FHD BR" tvg-logo="" group-title="Brazil",Globo RBS TV Caxias do Sul FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355913
+#EXTINF:-1 tvg-id="" tvg-name="Globo RBS TV 4K BR" tvg-logo="" group-title="Brazil",Globo RBS TV 4K BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355912
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Joinville FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Joinville FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355911
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Criciuma FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Criciuma FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355910
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Chapeco FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Chapeco FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355909
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC TV Blumenau FHD BR" tvg-logo="" group-title="Brazil",Globo NSC TV Blumenau FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355908
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Florianopolis FHD BR" tvg-logo="" group-title="Brazil",Globo NSC Florianopolis FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355907
+#EXTINF:-1 tvg-id="" tvg-name="Globo NSC Centro Oeste FHD BR" tvg-logo="" group-title="Brazil",Globo NSC Centro Oeste FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355906
+#EXTINF:-1 tvg-id="" tvg-name="Globo NOW BR" tvg-logo="" group-title="Brazil",Globo NOW BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355905
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD BR" tvg-logo="" group-title="Brazil",Globo Minas FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355904
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Grande Minas FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Grande Minas FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355903
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Cabugi FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Cabugi FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355902
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter TV Alto Litoral FHD BR" tvg-logo="" group-title="Brazil",Globo Inter TV Alto Litoral FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355901
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter PT FHD BR" tvg-logo="" group-title="Brazil",Globo Inter PT FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355900
+#EXTINF:-1 tvg-id="" tvg-name="Globo Inter Cabugi HD BR" tvg-logo="" group-title="Brazil",Globo Inter Cabugi HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355899
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos BR" tvg-logo="" group-title="Brazil",Globo EPTV São Carlos BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355898
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Sul de Minas FHD BR" tvg-logo="" group-title="Brazil",Globo EPTV Sul de Minas FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355897
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Ribeirão Preto BR" tvg-logo="" group-title="Brazil",Globo EPTV Ribeirão Preto BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355896
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV Campinas FHD BR" tvg-logo="http://swedtv.vip/logos/brasil_globo/EPTV.png" group-title="Brazil",Globo EPTV Campinas FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355895
+#EXTINF:-1 tvg-id="" tvg-name="Globo Centro America FHD BR" tvg-logo="" group-title="Brazil",Globo Centro America FHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355894
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazônica HD BR" tvg-logo="" group-title="Brazil",Globo Amazônica HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355893
+#EXTINF:-1 tvg-id="" tvg-name="Globo Amazonica Manaus HD BR" tvg-logo="" group-title="Brazil",Globo Amazonica Manaus HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355892
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PT HD BR" tvg-logo="" group-title="Brazil",GLOBO PT HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355891
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS HD BR" tvg-logo="" group-title="Brazil",GLOBO NEWS HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/355890
+#EXTINF:-1 tvg-id="" tvg-name="Globo Pt HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/GLOBOHD.png" group-title="Brazil",Globo Pt HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46545
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD BR" tvg-logo="" group-title="Brazil",Studio Universal HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46598
+#EXTINF:-1 tvg-id="" tvg-name="Globo Eptv Campinas HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="Brazil",Globo Eptv Campinas HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46537
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="Sportv HD BR" tvg-logo="" group-title="Brazil",Sportv HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46597
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="Sportv 2 HD BR" tvg-logo="" group-title="Brazil",Sportv 2 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46596
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD BR" tvg-logo="" group-title="Brazil",Space HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46594
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony BR" tvg-logo="" group-title="Brazil",Sony BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46593
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD BR" tvg-logo="" group-title="Brazil",Sony HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46592
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="Shoptime BR" tvg-logo="" group-title="Brazil",Shoptime BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46590
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Sbt HD BR" tvg-logo="" group-title="Brazil",Sbt HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46589
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/REDETVHD.png" group-title="Brazil",Rede Vida BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46587
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede Tv HD BR" tvg-logo="" group-title="Brazil",Rede Tv HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46586
+#EXTINF:-1 tvg-id="" tvg-name="Rede New BR" tvg-logo="" group-title="Brazil",Rede New BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46585
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="Brazil",Record News HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46583
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD BR" tvg-logo="" group-title="Brazil",Record HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46582
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Ra Tim Bum HD BR" tvg-logo="" group-title="Brazil",Ra Tim Bum HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46581
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD BR" tvg-logo="" group-title="Brazil",Premiere Clubes HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46579
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD BR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6Zs7SUQFQoh9LL3-yK0vaV5YTrFNtPLr0g&usqp=CAU" group-title="Brazil",Premiere 2 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46573
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD BR" tvg-logo="" group-title="Brazil",Premiere 3 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46574
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD BR" tvg-logo="" group-title="Brazil",Premiere 4 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46575
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD BR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6Zs7SUQFQoh9LL3-yK0vaV5YTrFNtPLr0g&usqp=CAU" group-title="Brazil",Premiere 5 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46576
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD BR" tvg-logo="" group-title="Brazil",Premiere 6 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46577
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD BR" tvg-logo="" group-title="Brazil",Premiere 7 HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46578
+#EXTINF:-1 tvg-id="off.br" tvg-name="Off HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/OFFHD.png" group-title="Brazil",Off HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46570
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount HD BR" tvg-logo="" group-title="Brazil",Paramount HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46571
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD BR" tvg-logo="" group-title="Brazil",Nick HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46568
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/INDIAN/NATGEOWILDHD.png" group-title="Brazil",Nat Geo Wild HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46567
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD BR" tvg-logo="" group-title="Brazil",Nat Geo Kids HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46566
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="Mtv Live HD BR" tvg-logo="" group-title="Brazil",Mtv Live HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46563
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="Mtv HD BR" tvg-logo="" group-title="Brazil",Mtv HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46562
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD BR" tvg-logo="" group-title="Brazil",Megapix HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46561
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix 4K UHD BR" tvg-logo="" group-title="Brazil",Megapix 4K UHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/51188
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD BR" tvg-logo="" group-title="Brazil",Multishow HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46564
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD BR" tvg-logo="" group-title="Brazil",Lifetime HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46556
+#EXTINF:-1 tvg-id="" tvg-name="Id HD BR" tvg-logo="" group-title="Brazil",Id HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46555
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/UK/HISTORYHD.png" group-title="Brazil",History HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46554
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD BR" tvg-logo="" group-title="Brazil",HBO Signature HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46552
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/HBO.png" group-title="Brazil",HBO Plus HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46551
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD BR" tvg-logo="" group-title="Brazil",HBO HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46550
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/HBO.png" group-title="Brazil",HBO Family HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46549
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="Zoomoo HD BR" tvg-logo="" group-title="Brazil",Zoomoo HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46625
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/WOOHOO.png" group-title="Brazil",Woohoo HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46624
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD BR" tvg-logo="" group-title="Brazil",Warner Channel HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46623
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD BR" tvg-logo="" group-title="Brazil",Viva HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46622
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD BR" tvg-logo="" group-title="Brazil",Universal Channel HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46619
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil HD BR" tvg-logo="https://asiagrandiptv.us/logo/canalbrasil.png" group-title="Brazil",TV Brasil HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46612
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD BR" tvg-logo="" group-title="Brazil",Tooncast HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46610
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD BR" tvg-logo="" group-title="Brazil",TNT HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46609
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series 4K UHD BR" tvg-logo="" group-title="Brazil",TNT Series 4K UHD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/51196
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD BR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tlc.png" group-title="Brazil",TLC HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46608
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/TELECINETouch.png" group-title="Brazil",Telecine Touch HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46607
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/TELECINEPREMIUM%20HD.png" group-title="Brazil",Telecine Premium HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46606
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/TELECINEFUN%20HD.png" group-title="Brazil",Telecine Fun HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46604
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/TELECINECULT.png" group-title="Brazil",Telecine Cult HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46603
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/LATINO/TELECINEACTION%20HD.png" group-title="Brazil",Telecine Action HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46602
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD BR" tvg-logo="" group-title="Brazil",TCM HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46601
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD BR" tvg-logo="http://logodmtv.ddns.net/logo_plus/USA/SYFYHD.png" group-title="Brazil",Syfy HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46599
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD BR" tvg-logo="" group-title="Brazil",TBS HD BR
+http://ultratv.one:2095/hAyoxQ3u/mHsKjCKN/46600
